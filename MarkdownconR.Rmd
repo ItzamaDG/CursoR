@@ -1,0 +1,38 @@
+---
+title: "MiPrimerMarkdown"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+#Argumentos por defecto Recuerda eco muestra result
+#Pero no muestra el codigo
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>. $f(x)=2x$
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+include me dice si el chunk se muestra o no, eval me dice si el codigo que pongo dentro se ejecuta o no se ejecuta.
+Puedes escoger el lenguaje
+
+
+```{python, python.reticulate = FALSE,results = 'hide'}
+x=2
+print(x)
+```
+
+
+```{r include=FALSE}
+summary(cars)
+```
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
