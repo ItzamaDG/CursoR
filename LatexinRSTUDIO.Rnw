@@ -1,0 +1,18 @@
+\documentclass{elsarticle}
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[left=2cm, right=2cm, bottom=1cm, top=1.5cm]{geometry}
+\usepackage{amsthm} %Classic theorem setup
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+\title{Mi primer articulo}
+\author{Itzama Delgadillo}
+\date{}
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+\maketitle
+
+
+
+\end{document}

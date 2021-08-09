@@ -1,0 +1,430 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.13)  8 AUG 2021 22:23
+entering extended mode
+**./LatexinRSTUDIO.tex
+(LatexinRSTUDIO.tex
+LaTeX2e <2020-10-01> patch level 1
+L3 programming layer <2020-10-05> xparse <2020-03-03>
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/elsarticle\elsarticle.c
+ls
+Document Class: elsarticle 2020/11/20, 3.3: Elsevier Ltd
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2020-10-05 L3 programming layer (loader) 
+
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count175
+\l__pdf_internal_box=\box47
+))
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e.sty
+Package: xparse 2020-10-05 L3 Experimental document command parser
+
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpars
+e-generic.tex))
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count176
+)
+\@bls=\dimen138
+
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count177
+\c@section=\count178
+\c@subsection=\count179
+\c@subsubsection=\count180
+\c@paragraph=\count181
+\c@subparagraph=\count182
+\c@figure=\count183
+\c@table=\count184
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen139
+)
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+)
+\c@tnote=\count185
+\c@fnote=\count186
+\c@cnote=\count187
+\c@ead=\count188
+\c@author=\count189
+\@eadauthor=\toks16
+\c@affn=\count190
+\absbox=\box48
+\elsarticlehighlightsbox=\box49
+\elsarticlegrabsbox=\box50
+\keybox=\box51
+\Columnwidth=\dimen142
+\space@left=\dimen143
+\els@boxa=\box52
+\els@boxb=\box53
+\leftMargin=\dimen144
+\@enLab=\toks17
+\@sep=\skip49
+\@@sep=\skip50
+ (LatexinRSTUDIO.spl)
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip51
+\bibsep=\skip52
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count191
+)
+\splwrite=\write3
+\openout3 = `LatexinRSTUDIO.spl'.
+
+\appnamewidth=\dimen145
+)
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2020/10/06 3.50 The Babel package
+
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2020/10/06 3.50 Babel common definitions
+\babel@savecnt=\count192
+\U@D=\dimen146
+\l@babelnohyphens=\language79
+
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count193
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\spanish.l
+df
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks18
+\es@quotdepth=\count194
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+)) (C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+) (C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count195
+\Gm@cntv=\count196
+\c@Gm@tempcnt=\count197
+\Gm@bindingoffset=\dimen147
+\Gm@wd@mp=\dimen148
+\Gm@odd@mp=\dimen149
+\Gm@even@mp=\dimen150
+\Gm@layoutwidth=\dimen151
+\Gm@layoutheight=\dimen152
+\Gm@layouthoffset=\dimen153
+\Gm@layoutvoffset=\dimen154
+\Gm@dimlist=\toks21
+
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/amscls\amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip53
+\thm@postskip=\skip54
+\thm@headsep=\skip55
+\dth@everypar=\toks27
+LaTeX Info: Redefining \qed on input line 273.
+)
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks28
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip56
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks29
+\ex@=\dimen155
+))
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen156
+)
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count198
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count199
+\leftroot@=\count266
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count267
+\DOTSCASE@=\count268
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box54
+\strutbox@=\box55
+\big@size=\dimen157
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count269
+\c@MaxMatrixCols=\count270
+\dotsspace@=\muskip16
+\c@parentequation=\count271
+\dspbrk@lvl=\count272
+\tag@help=\toks30
+\row@=\count273
+\column@=\count274
+\maxfields@=\count275
+\andhelp@=\toks31
+\eqnshift@=\dimen158
+\alignsep@=\dimen159
+\tagshift@=\dimen160
+\tagwidth@=\dimen161
+\totwidth@=\dimen162
+\lineht@=\dimen163
+\@envbody=\toks32
+\multlinegap=\skip57
+\multlinetaggap=\skip58
+\mathdisplay@stack=\toks33
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:/PROGRA~1/R/R-41~1.0/share/texmf/tex/latex\Sweave.sty
+Package: Sweave 
+
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/fancyvrb\fancyvrb.sty
+Package: fancyvrb 2020/05/03 v3.6 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count276
+\FV@InFile=\read3
+\FV@TabBox=\box56
+\c@FancyVerbLine=\count277
+\FV@StepNumber=\count278
+\FV@OutFile=\write4
+)
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/ae\ae.sty
+Package: ae 2001/02/12 1.3 Almost European Computer Modern
+
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+)))
+LaTeX Font Info:    Trying to load font information for T1+aer on input line 13
+.
+
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/ae\t1aer.fd
+File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
+)
+(LatexinRSTUDIO.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `LatexinRSTUDIO.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count279
+\scratchdimen=\dimen164
+\scratchbox=\box57
+\nofMPsegments=\count280
+\nofMParguments=\count281
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count282
+\MPscratchDim=\dimen165
+\MPnumerator=\count283
+\makeMPintoPDFobject=\count284
+\everyMPtoPDFconversion=\toks35
+)
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+)
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(42.67912pt, 723.83812pt, 28.45274pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=723.83812pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-66.59087pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=24.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(LatexinRSTUDIO-concordance.tex)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
+
+
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
+
+
+(C:\Users\itzam\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (2.21997pt too wide) has occurred while \output is active
+[] 
+ []
+
+[1
+
+
+{C:/Users/itzam/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+(LatexinRSTUDIO.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) ) 
+Here is how much of TeX's memory you used:
+ 6270 strings out of 480236
+ 88307 string characters out of 2880557
+ 384674 words of memory out of 3000000
+ 22707 multiletter control sequences out of 15000+200000
+ 549221 words of font info for 55 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,5n,77p,238b,361s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/itzam/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmr10.pfb><C:/Users/itzam/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmr12.pfb><C:/Users/itzam/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmti8.pfb>
+Output written on LatexinRSTUDIO.pdf (1 page, 33815 bytes).
+PDF statistics:
+ 19 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 5 words of extra memory for PDF output out of 10000 (max. 10000000)
+
